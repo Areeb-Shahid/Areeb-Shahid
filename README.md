@@ -1,4 +1,6 @@
-<p align="center"><img src="https://lottie.host/embed/f60f8621-9217-4910-870c-e471d5729403/kdSbOVcTFd.json"></p>
+<p align="center">
+  <img src="https://lottie.host/embed/f60f8621-9217-4910-870c-e471d5729403/kdSbOVcTFd.json">
+</p>
 
 <h4 align='center'>
 Hi there! 👋 I'm Areeb: <br/>
