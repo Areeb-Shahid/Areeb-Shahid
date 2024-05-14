@@ -14,7 +14,7 @@ I am focusing on <b>Self-motivated</b>, <b>action-oriented</b>, <b>Results-drive
 <h2>🥇 Main Skills:</h2>
 💧 FrontEnd: HTML/HTML5, CSS/CSS3/SASS, Bootstrap, Jinja 2... <br/>
 
-🔸 BackEnd: AL, Python (Django Flask FAST API)...<br/>
+🔸 BackEnd: AL (Microsoft Dynamics 365 Business Central), Python (Django Flask FAST API)...<br/>
 
 🚀 Database: SQL, MySQL, MongoDB, PostgreSQL...<br/>
 
