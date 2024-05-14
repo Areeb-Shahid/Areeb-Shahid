@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://lottie.host/embed/f60f8621-9217-4910-870c-e471d5729403/kdSbOVcTFd.json">
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script><lottie-player src="https://lottie.host/f60f8621-9217-4910-870c-e471d5729403/kdSbOVcTFd.json" background="##fff" speed="1" style="width: 300px; height: 300px" loop controls autoplay direction="1" mode="normal"></lottie-player>
 </p>
+
 
 <h4 align='center'>
 Hi there! 👋 I'm Areeb: <br/>
