@@ -3,7 +3,7 @@
 
 <h4 align='center'>
 Hi there! 👋 I'm Areeb: <br/>
-  Agile Project Manager, Business Central Technical Consultant & Python Developer 
+  Agile Project Manager, Business Central Technical Consultant 
 </h4>
 
 ## 👩  About me:
